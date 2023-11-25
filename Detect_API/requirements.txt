@@ -1,0 +1,8 @@
+ultralytics
+uvicorn[standard]
+# gunicorn==20.1.0
+fastapi[all]
+loguru
+faiss-cpu
+transformers
+torch
