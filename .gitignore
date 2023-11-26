@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+DemoApp/assets/img/
+Detect_API/assets/img/
 # Distribution / packaging
 .Python
 build/
